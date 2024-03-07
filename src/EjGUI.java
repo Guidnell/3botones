@@ -60,7 +60,8 @@ public class EjGUI extends JFrame {
 		JButton btnGuidnell = new JButton("Guidnell");
 		btnGuidnell.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				JOptionPane.showMessageDialog(null, "Hola, mi nombre es Guidnell");
+				JOptionPane.showMessageDialog(null, "Hola");
+				JOptionPane.showMessageDialog(null, "Mi nombre es Guidnell");
 			}
 		});
 		btnGuidnell.setBounds(298, 116, 126, 134);
