@@ -1,6 +1,7 @@
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JButton;
@@ -59,6 +60,7 @@ public class EjGUI extends JFrame {
 		JButton btnGuidnell = new JButton("Guidnell");
 		btnGuidnell.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				JOptionPane.showMessageDialog(null, "Hola, mi nombre es Guidnell");
 			}
 		});
 		btnGuidnell.setBounds(298, 116, 126, 134);
