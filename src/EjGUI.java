@@ -55,6 +55,7 @@ public class EjGUI extends JFrame {
 				JOptionPane.showMessageDialog(null," Soy Mauricio");
 				// prueba de segundo cambio  
 				//prueba de tercer cambio
+				// prueba tercer comentario
 				
 			}
 		});
