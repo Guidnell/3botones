@@ -53,7 +53,7 @@ public class EjGUI extends JFrame {
 		btnMauricio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				JOptionPane.showMessageDialog(null," Soy Mauricio");
-				// prueba de segundo cambio
+				// prueba de segundo cambio 
 				
 			}
 		});
