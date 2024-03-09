@@ -44,7 +44,8 @@ public class EjGUI extends JFrame {
 		JButton btnRene = new JButton("Rene");
 		btnRene.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				System.out.println("Hola, soy rene");
+				System.out.println("Hola, soy rene ");
+				System.out.println("xd");
 			}
 		});
 		btnRene.setBounds(10, 116, 126, 134);
