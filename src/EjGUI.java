@@ -52,7 +52,7 @@ public class EjGUI extends JFrame {
 		JButton btnMauricio = new JButton("Mauricio");
 		btnMauricio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				JOptionPane.showMessageDialog(null, "Soy Mauricio ");
+				JOptionPane.showMessageDialog(null, "Soy Mauricio");
 			}
 		});
 		btnMauricio.setBounds(156, 116, 126, 134);
