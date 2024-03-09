@@ -46,7 +46,8 @@ public class EjGUI extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				System.out.println("Hola, soy rene ");
 				System.out.println("xd ");
-				////primer  ccomentario
+				////primer  ccomentario 
+				///segundo comentarioo
 			}
 		});
 		btnRene.setBounds(10, 116, 126, 134);
